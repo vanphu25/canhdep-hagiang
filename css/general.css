@@ -5,7 +5,7 @@
 }
 
 body {
-  font-size: 24px;
+  font-size: 20px;
   font-family: "Roboto", sans-serif;
   font-family: "Urbanist", sans-serif;
 }
@@ -40,9 +40,7 @@ body {
   width: 100%;
   margin: 0px auto;
 }
-p {
-  line-height: 26px;
-}
+
 a {
   text-decoration: none;
   color: black;
