@@ -1,0 +1,36 @@
+/*Banner*/
+.banner {
+  background-image: url("../images/255_cao_nguyen_da_dong_van.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  color: blue;
+  position: relative;
+}
+
+.banner-content {
+  position: absolute;
+  top: 45%;
+  left: 30%;
+  padding: 15px;
+  letter-spacing: 2px;
+}
+
+.banner-content h1 {
+  margin: 0px;
+  font-size: 55px;
+}
+
+/*guide section*/
+.section-content h1 {
+  text-transform: uppercase;
+}
+.section-content h2 {
+  font-size: 40px;
+  margin: 20px 10px;
+}
+.section-content p {
+  font-weight: 400;
+  margin: 10px 10px;
+}
